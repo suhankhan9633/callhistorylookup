@@ -1,0 +1,75 @@
+{
+  "Callstatus": {
+    "Lionappname": "Lion Loan EMI Calculator",
+    "Lionadstatus": 1,
+    "Lionadmob_adstatus": 1,
+    "Lionfacebook_adstatus": 0
+  },
+  "Calladmob": {
+    "Lionappopen_id": "ca-app-pub-3940256099942544/9257395921",
+    "Lionbanner_id": "ca-app-pub-3940256099942544/2014213617",
+    "Lionnative_id": "/21775744923/example/native",
+    "Lioninterstitial_id": "/21775744923/example/interstitial"
+  },
+  "Callfacebook": {
+    "Lionappopen_id": "",
+    "Lionbanner_id": "",
+    "Lionnative_id": "",
+    "Lioninterstitial_id": ""
+  },
+  "Callfrequency_capping": {
+    "Lionfrequency_banner": "2",
+    "Lionfrequency_native": "5",
+    "Lionfrequency_interstitial": "3",
+    "Lionfrequency_Backinterstitial": "100",
+    "Lionfrequency_affiliate": "0"
+  },
+  "Callextra": {
+    "CallprivacyPolicy": "https://lianloanemicalculator.blogspot.com/2024/10/privacy-policy.html",
+    "CallcontactUS": "https://lianloanemicalculator.blogspot.com/",
+    "Callextrascreen": "0",
+    "CallinterAdDialog": 0,
+    "Callnativebtn_up": 0,
+    "CallbannerTimer": 10000,
+    "Callnativeclickupgrade": 0,
+    "Callaffiliate_url": "null",
+    "CallfbAppID": "1234",
+    "CallfbClientID": "5678",
+    "CalluserTracking": 0,
+    "CalluserTrackingURL": "",
+    "CalluserTrackingType": 0,
+    "CallcollapsizeBanner": 0,
+    "CallsomeTimeAgain": 0,
+    "CallbannerAltnativeShow": false,
+    "CallenableNotify": ""
+  },
+  "CallInstallextra": {
+    "adstatus": 0,
+    "admob_adstatus": 0,
+    "facebook_adstatus": 0,
+    "admob_appopen_id": "",
+    "admob_banner_id": "",
+    "admob_native_id": "",
+    "admob_interstitial_id": "",
+    "fb_appopen_id": "",
+    "fb_banner_id": "",
+    "fb_native_id": "",
+    "fb_interstitial_id": "",
+    "frequency_banner": "0",
+    "frequency_native": "0",
+    "frequency_interstitial": "0",
+    "frequency_Backinterstitial": "0",
+    "frequency_affiliate": "0",
+    "extrascreen": "0",
+    "interAdDialog": 0,
+    "nativebtn_up": 0,
+    "bannerTimer": 10000,
+    "nativeclickupgrade": 0,
+    "affiliate_url": "null",
+    "collapsizeBanner": 0,
+    "someTimeAgain": 0,
+    "bannerAltnativeShow": false,
+    "enableNotify": ""
+  },
+  "Callcustom_banner": []
+}
