@@ -1,28 +1,28 @@
 {
   "Callstatus": {
-    "Lionappname": "Lion Loan EMI Calculator",
-    "Lionadstatus": 1,
-    "Lionadmob_adstatus": 1,
-    "Lionfacebook_adstatus": 0
+    "Callappname": "Lion Loan EMI Calculator",
+    "Calladstatus": 1,
+    "Calladmob_adstatus": 1,
+    "Callfacebook_adstatus": 0
   },
   "Calladmob": {
-    "Lionappopen_id": "ca-app-pub-3940256099942544/9257395921",
-    "Lionbanner_id": "ca-app-pub-3940256099942544/2014213617",
-    "Lionnative_id": "/21775744923/example/native",
-    "Lioninterstitial_id": "/21775744923/example/interstitial"
+    "Callappopen_id": "ca-app-pub-3940256099942544/9257395921",
+    "Callbanner_id": "ca-app-pub-3940256099942544/2014213617",
+    "Callnative_id": "/21775744923/example/native",
+    "Callinterstitial_id": "/21775744923/example/interstitial"
   },
   "Callfacebook": {
-    "Lionappopen_id": "",
-    "Lionbanner_id": "",
-    "Lionnative_id": "",
-    "Lioninterstitial_id": ""
+    "Callappopen_id": "",
+    "Callbanner_id": "",
+    "Callnative_id": "",
+    "Callinterstitial_id": ""
   },
   "Callfrequency_capping": {
-    "Lionfrequency_banner": "2",
-    "Lionfrequency_native": "5",
-    "Lionfrequency_interstitial": "3",
-    "Lionfrequency_Backinterstitial": "100",
-    "Lionfrequency_affiliate": "0"
+    "Callfrequency_banner": "2",
+    "Callfrequency_native": "5",
+    "Callfrequency_interstitial": "3",
+    "Callfrequency_Backinterstitial": "100",
+    "Callfrequency_affiliate": "0"
   },
   "Callextra": {
     "CallprivacyPolicy": "https://lianloanemicalculator.blogspot.com/2024/10/privacy-policy.html",
