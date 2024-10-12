@@ -1,8 +1,8 @@
 {
   "Callstatus": {
     "Callappname": "Lion Loan EMI Calculator",
-    "Calladstatus": 0,
-    "Calladmob_adstatus": 0,
+    "Calladstatus": 1,
+    "Calladmob_adstatus": 1,
     "Callfacebook_adstatus": 0
   },
   "Calladmob": {
@@ -25,8 +25,8 @@
     "Callfrequency_affiliate": "0"
   },
   "Callextra": {
-    "CallprivacyPolicy": "https://lianloanemicalculator.blogspot.com/2024/10/privacy-policy.html",
-    "CallcontactUS": "https://lianloanemicalculator.blogspot.com/",
+    "CallprivacyPolicy": "https://callhistorylookup.blogspot.com/2024/10/privacy-policy.html",
+    "CallcontactUS": "https://forms.gle/cMJQxPfRUWbxXN9g8",
     "Callextrascreen": "0",
     "CallinterAdDialog": 0,
     "Callnativebtn_up": 0,
