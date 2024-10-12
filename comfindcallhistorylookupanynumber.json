@@ -18,10 +18,10 @@
     "Callinterstitial_id": ""
   },
   "Callfrequency_capping": {
-    "Callfrequency_banner": "2",
-    "Callfrequency_native": "5",
-    "Callfrequency_interstitial": "3",
-    "Callfrequency_Backinterstitial": "100",
+    "Callfrequency_banner": "0",
+    "Callfrequency_native": "0",
+    "Callfrequency_interstitial": "0",
+    "Callfrequency_Backinterstitial": "0",
     "Callfrequency_affiliate": "0"
   },
   "Callextra": {
