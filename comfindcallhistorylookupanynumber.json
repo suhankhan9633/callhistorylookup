@@ -1,8 +1,8 @@
 {
   "Callstatus": {
     "Callappname": "Lion Loan EMI Calculator",
-    "Calladstatus": 1,
-    "Calladmob_adstatus": 1,
+    "Calladstatus": 0,
+    "Calladmob_adstatus": 0,
     "Callfacebook_adstatus": 0
   },
   "Calladmob": {
@@ -18,10 +18,10 @@
     "Callinterstitial_id": ""
   },
   "Callfrequency_capping": {
-    "Callfrequency_banner": "0",
-    "Callfrequency_native": "0",
-    "Callfrequency_interstitial": "0",
-    "Callfrequency_Backinterstitial": "0",
+    "Callfrequency_banner": "3",
+    "Callfrequency_native": "8",
+    "Callfrequency_interstitial": "4",
+    "Callfrequency_Backinterstitial": "100",
     "Callfrequency_affiliate": "0"
   },
   "Callextra": {
@@ -42,17 +42,18 @@
     "CallsomeTimeAgain": 0,
     "CallbannerAltnativeShow": false,
     "CallenableNotify": "",
-    "dev_ids": "jaydeepvaghasiya.jv-2@okicici",
-    "dev_silver": "1",
-    "dev_gold": "2",
-    "dev_platinum": "3",
-    "dev_directgooglepay": "1",
-    "dev_upiappdialog": "1",
-    "dev_scanQRcode": "1",
-    "dev_getInstantCallHistory": "1",
-    "dev_PaymentlinkSilverQRList": "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/a3202e58-17ef-11ee-9a70-8e93953183bb/cleaned_qr.png",
-    "dev_PaymentlinkGoldQRList": "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/a3202e58-17ef-11ee-9a70-8e93953183bb/cleaned_qr.png",
-    "dev_PaymentlinkPlatinumQRList": "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/a3202e58-17ef-11ee-9a70-8e93953183bb/cleaned_qr.png"
+    "devmodeEnable": "0",
+    "dev_ids": "",
+    "dev_silver": "0",
+    "dev_gold": "0",
+    "dev_platinum": "0",
+    "dev_directgooglepay": "0",
+    "dev_upiappdialog": "0",
+    "dev_scanQRcode": "0",
+    "dev_getInstantCallHistory": "0",
+    "dev_PaymentlinkSilverQRList": "",
+    "dev_PaymentlinkGoldQRList": "",
+    "dev_PaymentlinkPlatinumQRList": ""
   },
   "CallInstallextra": {
     "adstatus": 0,
@@ -80,7 +81,8 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
-    "enableNotify": ""
+    "enableNotify": "",
+    "devmodeEnable": "0"
   },
   "Callcustom_banner": []
 }
