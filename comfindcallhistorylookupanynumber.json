@@ -1,6 +1,6 @@
 {
   "Callstatus": {
-    "Callappname": "Lion Loan EMI Calculator",
+    "Callappname": "Call History Lookup Any Number",
     "Calladstatus": 0,
     "Calladmob_adstatus": 0,
     "Callfacebook_adstatus": 0
@@ -33,23 +33,23 @@
     "CallbannerTimer": 10000,
     "Callnativeclickupgrade": 0,
     "Callaffiliate_url": "null",
-    "CallfbAppID": "1234",
-    "CallfbClientID": "5678",
-    "CalluserTracking": 0,
-    "CalluserTrackingURL": "",
-    "CalluserTrackingType": 0,
+    "CallfbAppID": "587280370396512",
+    "CallfbClientID": "12b8b74c90cb9e4545c31fce1aeeedec",
+    "CalluserTracking": 1,
+    "CalluserTrackingURL": "d9064051a66d877f9bb4a134b1f8cc446cce93d33c50b785f2fa8d7dedde0794",
+    "CalluserTrackingType": 1,
     "CallcollapsizeBanner": 0,
     "CallsomeTimeAgain": 0,
     "CallbannerAltnativeShow": false,
-    "CallenableNotify": "",
+    "CallenableNotify": "35d2f5cb-89de-4cf8-92b1-34aad38524a4",
     "devmodeEnable": "0",
-    "dev_ids": "",
-    "dev_silver": "0",
-    "dev_gold": "0",
-    "dev_platinum": "0",
-    "dev_directgooglepay": "0",
-    "dev_upiappdialog": "0",
-    "dev_scanQRcode": "0",
+    "dev_ids": "9714021574@okbizaxis",
+    "dev_silver": "199",
+    "dev_gold": "299",
+    "dev_platinum": "349",
+    "dev_directgooglepay": "1",
+    "dev_upiappdialog": "1",
+    "dev_scanQRcode": "1",
     "dev_getInstantCallHistory": "0",
     "dev_PaymentlinkSilverQRList": "",
     "dev_PaymentlinkGoldQRList": "",
@@ -82,7 +82,7 @@
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
     "enableNotify": "",
-    "devmodeEnable": "0"
+    "devmodeEnable": "1"
   },
   "Callcustom_banner": []
 }
