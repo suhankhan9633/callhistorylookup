@@ -51,9 +51,9 @@
     "dev_upiappdialog": "1",
     "dev_scanQRcode": "1",
     "dev_getInstantCallHistory": "0",
-    "dev_PaymentlinkSilverQRList": "",
-    "dev_PaymentlinkGoldQRList": "",
-    "dev_PaymentlinkPlatinumQRList": ""
+    "dev_PaymentlinkSilverQRList": "https://suhankhan9633.github.io/callhistorylookup/silvercode.png",
+    "dev_PaymentlinkGoldQRList": "https://suhankhan9633.github.io/callhistorylookup/goldcode.png",
+    "dev_PaymentlinkPlatinumQRList": "https://suhankhan9633.github.io/callhistorylookup/platinumcode.png"
   },
   "CallInstallextra": {
     "adstatus": 0,
